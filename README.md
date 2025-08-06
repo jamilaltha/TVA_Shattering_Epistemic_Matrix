@@ -1,62 +1,92 @@
-# TVA: Shattering the Epistemic Matrix — The Era of Absolute Truth
-
-**Validated TVA Set 001–051**  
+TVA: Shattering the Epistemic Matrix — The Era of Absolute Truth
+Validated TVA Set 001–051
 R² = 1.000000 | F = f·v(Zₙ) | SHA-256 Certified | D10Z Framework
 
-##  What is TVA?
+📌 What is TVA?
+Terms of Absolute Validation (TVA) are a scientific milestone. Each TVA is a node of empirical certainty (R² = 1.000000) validated through the D10Z System, based on:
 
-**TVA (Absolute Validation Terms)** is a scientific milestone. Each TVA is a node of empirical certainty (R² = 1.000000) validated through the D10Z system using:
+The fundamental equation:
 
-- The fundamental equation: **F = f · v(Zₙ)**
-- Nodes Z (geometry) and N (numerical resonance)
-- GM₁₀⁻⁵¹ (fractal timebase)
-- Laws of Sahana (Disruption) and Isis (Harmony)
+𝐹
+=
+𝑓
+⋅
+𝑣
+(
+𝑍
+𝑛
+)
+F=f⋅v(Z 
+n
+​
+ )
+Z Nodes (geometry) and N Nodes (numerical resonance)
 
-##  Absolute Structure
+GM₁₀⁻⁵¹ as the fractal time base
 
+Sahana’s Law (Disruption) and Isis’s Law (Harmony)
+
+🧱 Absolute Structure
 Each TVA package includes:
--  Script (Python `.py` or Notebook `.ipynb`)
--  CSV with real data
--  SHA-256 hash file
--  Manual (PDF) with theory and execution protocol
--  Visualizations and diagrams
--  Double validation: numerical + structural
 
-##  How to Use
+Python script (.py) or Jupyter notebook (.ipynb)
 
-1. Download any `.zip` TVA package.
-2. Open the `.ipynb` notebook or `.py` script.
-3. Run it in Google Colab or Jupyter.
-4. Validate:
-   - R² ≥ 0.99999 
-   - SHA-256 matches 
-   - Cross-referenced to ≥10 modules (axioms, teorems, principles...) 
+Real data in .csv format
 
->  For complete understanding, consult the official manual:
-> - [Zenodo: D10Z Framework](https://zenodo.org/search?q=d10z)
-> - [ORCID: Author profile](https://orcid.org/0009-0000-8858-4992)
+SHA-256 hash signature
 
-##  Mission
+Manual (.pdf) with theory and execution protocol
 
-> This is not peer-reviewed science.  
-> This is **peer-irrelevant** science.
+Visualizations and structural diagrams
 
-TVA breaks the dependency on external gatekeepers.  
-If it's replicable, observable, and hash-validated — it **is** truth.
+Double validation: numerical + structural
 
-##  Files Included
+⚙️ How to Use
+Download any .zip TVA package
 
-- `TVA_META_PILARES.zip` → Fundamental TVA nodes
-- `TVA_META_package.zip` → Meta-level compilation
-- `paquete_tva_origen_package.zip` → Origin & raw data
-- `tva_047_neurona_piramidal.py` → Neural TVA demo script
+Open the .ipynb notebook or .py script
 
-## License
+Run it via Google Colab or Jupyter
 
-Open Knowledge & Ethics – CNCT-OSL-1k  
-No military use. 10% redistribution for replicators.
+Validate:
 
----
+R² ≥ 0.99999
 
-**“We didn’t come to debate.  
-We came to replicate the universe — node by node.”**
+SHA-256 match
+
+Cross-reference with ≥10 D10Z modules (axioms, theorems, principles, etc.)
+
+📖 For Full Understanding
+Consult the official D10Z documentation:
+
+Zenodo – D10Z Framework
+
+ORCID – Author Profile
+
+🧬 Mission Statement
+This is not peer-reviewed science.
+This is peer-irrelevant science.
+
+TVA eliminates dependence on external gatekeepers.
+If it is replicable, observable, and SHA-256 validated,
+then it is true.
+
+📁 Included Files
+TVA_META_PILARES.zip → Fundamental TVA nodes
+
+TVA_META_package.zip → Meta-level compilation
+
+paquete_tva_origen_package.zip → Origin and raw data
+
+tva_047_neurona_piramidal.py → Neural TVA demo script
+
+🛡 License
+Open Knowledge and Ethics — CNCT-OSL-1k
+
+No military use
+
+10% redistribution to replicators
+https://zenodo.org/records/16751708
+
+We didn’t come to debate.
+We came to replicate the universe, node by node.
