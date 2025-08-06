@@ -32,7 +32,7 @@ Each TVA package includes:
    - SHA-256 matches 
    - Cross-referenced to ≥10 modules (axioms, teorems, principles...) 
 
-> ℹ For complete understanding, consult the official manual:
+>  For complete understanding, consult the official manual:
 > - [Zenodo: D10Z Framework](https://zenodo.org/search?q=d10z)
 > - [ORCID: Author profile](https://orcid.org/0009-0000-8858-4992)
 
